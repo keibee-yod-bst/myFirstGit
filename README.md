@@ -1,4 +1,4 @@
-#Projrct title:#
+#Projrct title:<h1>
 #A project description:#
 #Install instractions:#
 #Run instractions:#
