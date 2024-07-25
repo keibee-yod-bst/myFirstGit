@@ -3,7 +3,8 @@
 ##**Install instractions**: $git clone "https://github.com/keibee-yod-bst/myFirstGit"  
 $cd myFirstGit  
 npm install  
-##**Run instractions**: node index.js 
+##**Run instractions**: node index.js  
+**week**|**content**
 ------------ | -------------
 1|node
 2|git
