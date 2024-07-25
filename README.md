@@ -1,4 +1,4 @@
-**Projrct title**:  
+**Projrct title**: myFirstGit  
 **A project description**:  
 **Install instractions**:  
 **Run instractions**:  
